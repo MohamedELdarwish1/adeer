@@ -1,4 +1,4 @@
-**Real-time Bidding API Endpoint in Laravel - README**
+
 
 ### Introduction
 
